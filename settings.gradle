@@ -1,0 +1,1 @@
+include ':mypluginlibrary',':Plugin1',':HostApp'
